@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/Conn/DBConnectionSQLServer.java=UTF-8
+encoding//src/Coreservlet/AddGuestBook.java=UTF-8
+encoding//src/Coreservlet/DeleteGuestBook.java=UTF-8
+encoding//src/Coreservlet/UpdateGuestBook.java=UTF-8
